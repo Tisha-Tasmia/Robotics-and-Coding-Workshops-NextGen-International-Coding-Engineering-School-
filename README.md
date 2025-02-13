@@ -57,3 +57,5 @@ _**Contribution:**_
 •	Mentored students and provided **career guidance in AI and robotics**.
 
 •	Organized coding competitions and **STEM exhibitions, encouraging hands-on learning**.
+
+Run the AI Robotics Simulation
