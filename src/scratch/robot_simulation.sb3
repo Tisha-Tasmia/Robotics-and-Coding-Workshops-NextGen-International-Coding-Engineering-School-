@@ -1,2 +1,60 @@
 
-//Robot movement simulation
+//A sample project for Robot Movement Simulation
+
+🤖 Scratch Project: Robot Simulation (robot_simulation.sb3)
+This Scratch project simulates a simple robot moving autonomously, avoiding obstacles, and responding to user commands.
+
+Features:
+The robot moves forward automatically.
+It detects obstacles (e.g., a wall) and turns.
+The user can control the robot with arrow keys.
+
+Steps to Create the Project in Scratch
+Open Scratch (https://scratch.mit.edu) and create a new project.
+
+Add Sprites:
+
+Click on "Choose a Sprite" and select:
+Robot (as the main sprite)
+Wall (obstacles for simulation)
+Resize and duplicate walls as needed.
+Add a Background (e.g., a grid or a lab setup).
+
+Code for Robot Movement (Autonomous Navigation):
+
+Select the Robot Sprite.
+
+Add this script:
+
+blocks
+Copy
+Edit
+when [green flag] clicked
+forever
+  move (4) steps
+  if <touching [Wall v] ?> then
+    say [Obstacle detected!] for (1) seconds
+    turn right (random (90) to (180)) degrees
+  end
+end
+User-Controlled Movement (Override Mode)
+
+Add another script for manual control:
+
+blocks
+Copy
+Edit
+when [up arrow] key pressed
+move (5) steps
+
+when [left arrow] key pressed
+turn left (15) degrees
+
+when [right arrow] key pressed
+turn right (15) degrees
+Save the Project:
+
+Click File > Save to your computer.
+Name it robot_simulation.sb3.
+
+
