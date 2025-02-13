@@ -48,7 +48,7 @@ git clone https://github.com/your-username/Robotics-and-Coding-Workshops.git
 cd Robotics-and-Coding-Workshops
 
 
-_**Contribution:**_
+**Contribution:**
 
 •	Developed **structured lesson plans** covering different levels of **coding proficiency**.
 
@@ -58,4 +58,18 @@ _**Contribution:**_
 
 •	Organized coding competitions and **STEM exhibitions, encouraging hands-on learning**.
 
-Run the AI Robotics Simulation
+**Run the AI Robotics Simulation**
+
+cd src/python
+python ai_automation.py
+
+**Open Scratch Project**
+
+Navigate to src/scratch/
+Open simple_game.sb3 in Scratch.
+
+🤝 Contribution
+Want to contribute? Fork the repo, create a new branch, and submit a PR!
+
+📜 License
+MIT License © 2025 NextGen Coding & Engineering School
