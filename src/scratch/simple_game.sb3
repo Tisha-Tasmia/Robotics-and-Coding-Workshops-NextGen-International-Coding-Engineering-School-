@@ -3,14 +3,14 @@
 🎮 Simple Scratch Game: "Dodge the Falling Objects"
 Objective: The player controls a sprite (a cat) to avoid falling objects. If hit, the game ends.
 
-📌 Steps to Create the Game in Scratch
+Steps to Create the Game in Scratch
 Open Scratch (https://scratch.mit.edu) and create a new project.
 
 Add Sprites:
 
 Click on "Choose a Sprite" and select:
-🐱 Cat (Player)
-⚽ Ball (Falling Object)
+Cat (Player)
+Ball (Falling Object)
 Add a Background (e.g., a city or a field).
 
 Code for Player Movement (Cat):
