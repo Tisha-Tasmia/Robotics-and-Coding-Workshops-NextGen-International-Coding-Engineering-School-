@@ -7,6 +7,10 @@ Conducted hands-on robotics and coding workshops for students, teaching **progra
  **Overview**
 This repository contains resources, lesson plans, and projects from the **NextGen International Coding & Engineering School** workshops. These workshops introduce students to programming, robotics, and AI-driven automation.
 
+**Project Model**
+
+
+
 _**Key Features:**_
 
 •	**Interactive Learning Modules:** Designed workshops covering basic to advanced coding and robotics.Interactive lessons covering **Scratch, Tynker, Python, MATLAB, and Arduino**.
