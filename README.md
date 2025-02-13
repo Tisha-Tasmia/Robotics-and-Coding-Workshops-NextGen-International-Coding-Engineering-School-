@@ -24,6 +24,29 @@ _**Skill Set Demonstrated:**_
 
 •	**Robotics & AI:** Hands-on experience with AI-based automation
 
+# Robotics-and-Coding-Workshops
+
+## 🚀 Overview
+This repository contains resources, lesson plans, and projects from the **NextGen International Coding & Engineering School** workshops. These workshops introduce students to programming, robotics, and AI-driven automation.
+
+## 🔥 Key Features
+- Interactive lessons covering **Scratch, Tynker, Python, MATLAB, and Arduino**.
+- **AI & Robotics** implementation using Python.
+- Hands-on **mini robotics** projects.
+- Preparation for **STEM competitions & coding fairs**.
+
+## 📂 Project Structure
+- `docs/` - Workshop curriculum, guidelines, and competition mentorship.
+- `src/` - Example codes in **Python, MATLAB, Arduino & Scratch**.
+- `projects/` - Student projects and mini robot implementations.
+- `competitions/` - Resources for national/international contests.
+
+## 🚀 Getting Started
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-username/Robotics-and-Coding-Workshops.git
+cd Robotics-and-Coding-Workshops
+
 
 _**Contribution:**_
 
