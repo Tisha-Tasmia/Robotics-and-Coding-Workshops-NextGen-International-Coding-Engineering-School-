@@ -9,6 +9,7 @@ This repository contains resources, lesson plans, and projects from the **NextGe
 
 **Project Model**
 
+![Model Diagram](https://raw.githubusercontent.com/Tisha-Tasmia/Robotics-and-Coding-Workshops-NextGen-International-Coding-Engineering-School-/refs/heads/main/Robotics_Coding_Workshops_NextGen.png)
 
 
 _**Key Features:**_
