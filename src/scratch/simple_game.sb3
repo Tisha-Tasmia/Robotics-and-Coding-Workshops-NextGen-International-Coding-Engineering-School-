@@ -1,1 +1,58 @@
-//Scratch beginner-friendly project
+//A sample for a Scratch beginner-friendly project
+
+🎮 Simple Scratch Game: "Dodge the Falling Objects"
+Objective: The player controls a sprite (a cat) to avoid falling objects. If hit, the game ends.
+
+📌 Steps to Create the Game in Scratch
+Open Scratch (https://scratch.mit.edu) and create a new project.
+
+Add Sprites:
+
+Click on "Choose a Sprite" and select:
+🐱 Cat (Player)
+⚽ Ball (Falling Object)
+Add a Background (e.g., a city or a field).
+
+Code for Player Movement (Cat):
+
+Select the Cat Sprite.
+
+Add this script:
+
+blocks
+Copy
+Edit
+when [green flag] clicked
+forever
+  if <key [left arrow] pressed?> then
+    change x by (-10)
+  end
+  if <key [right arrow] pressed?> then
+    change x by (10)
+  end
+end
+Code for Falling Objects (Ball):
+
+Select the Ball Sprite.
+
+Add this script:
+
+blocks
+Copy
+Edit
+when [green flag] clicked
+go to [random position v] y: 180
+forever
+  change y by (-5)
+  if <touching [Cat v] ?> then
+    stop [all v]
+    say [Game Over!] for (2) seconds
+  end
+  if <y position < -180> then
+    go to [random position v] y: 180
+  end
+end
+Save the Project:
+
+Click File > Save to your computer.
+Name it simple_game.sb3.
